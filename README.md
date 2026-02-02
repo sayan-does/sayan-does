@@ -31,11 +31,6 @@ End-to-end data intelligence system processing large volumes of LinkedIn content
 - AI-based scoring using Gemini Flash 2.0
 - MinIO-backed object storage with REST APIs
 
-### Flask RAG Chatbot
-- Domain-specific retrieval-augmented generation system
-- Document parsing with PyMuPDF and vector search via ChromaDB
-- Multimodal response support using CLIP and GPT-based models
-
 ### Real-Time Threat Detection (YOLOv8)
 - Surveillance-oriented weapon detection system
 - Optimized YOLOv8 models trained on Roboflow datasets
@@ -73,13 +68,6 @@ End-to-end data intelligence system processing large volumes of LinkedIn content
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
 ![PhantomBuster](https://img.shields.io/badge/PhantomBuster-3B82F6?style=flat)
 ![RPA](https://img.shields.io/badge/RPA_Automation-111827?style=flat)
-
----
-
-## Research
-
-**Accurate Soil Classification with Deep Learning and Lime**  
-Springer Nature Computer Science — Under Review (2025)
 
 ---
 
