@@ -8,13 +8,23 @@ I care about systems that hold up outside the notebook: latency, cost, reliabili
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayan-does&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-does&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayan-does&theme=tokyo-night&hide_border=true&height=165" height="165" alt="Contribution graph" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayan-does&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-does&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-does&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayan-does&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sayan-does&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 <!--
 Optional: animated contribution snake (commented out — requires a one-time GitHub Actions
