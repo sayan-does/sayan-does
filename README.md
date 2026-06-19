@@ -10,19 +10,75 @@ I care about systems that hold up outside the notebook: latency, cost, reliabili
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayan-does&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=sayan-does&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-does&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-does&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayan-does&theme=tokyonight" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-does&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sayan-does&theme=tokyo-night&hide_border=true" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sayan-does&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,docker,mongodb,postgres,redis,gcp,aws,linux,git,github,gitlab"
+    alt="Tech Stack"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sayan-does/sayan-does/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sayan-does/sayan-does/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      width="100%"
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/sayan-does/sayan-does/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <a href="https://gitlab.com/YOUR_GITLAB_USERNAME">
+    <img
+      src="https://img.shields.io/badge/GitLab-Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="GitLab"
+    />
+  </a>
 
 </div>
 
