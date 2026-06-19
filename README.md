@@ -52,7 +52,7 @@ A CLI-first safety layer that intercepts shell commands before they execute.
 - `preexec` shell hook feeding a Python daemon over a Unix socket
 - LangChain-based risk classifier and suggestion agent for flagged commands
 - FAISS-backed semantic cache to avoid redundant LLM calls
-- Runs fully local via Ollama — no web server, no external dependency
+- Supports free llm providers like Openrouter and Groq
 
 ### LinkedIn Scout — Professional Data Intelligence Platform
 
