@@ -2,135 +2,6 @@
 
 AI/ML Engineer building production-grade LLM systems, agentic pipelines, and data infrastructure — currently Founding ML Engineer at [FinaxonAI](https://finaxonai.com), with prior work spanning computer vision, NLP, and MLOps.
 
-I care about systems that hold up outside the notebook: latency, cost, reliability, and data correctness under real deployment constraints.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=sayan-does&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-does&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sayan-does&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img
-    src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,docker,mongodb,postgres,redis,gcp,aws,linux,git,github,gitlab"
-    alt="Tech Stack"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sayan-does/sayan-does/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sayan-does/sayan-does/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      width="100%"
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/sayan-does/sayan-does/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <a href="https://gitlab.com/YOUR_GITLAB_USERNAME">
-    <img
-      src="https://img.shields.io/badge/GitLab-Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="GitLab"
-    />
-  </a>
-
-</div>
-
-<!--
-Optional: animated contribution snake (commented out — requires a one-time GitHub Actions
-workflow in the sayan-does/sayan-does repo to generate the SVG on a schedule).
-Setup: https://github.com/Platane/snk — add the action, then uncomment below.
-
-<img src="https://raw.githubusercontent.com/sayan-does/sayan-does/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
--->
-
----
-
-## Areas of Focus
-
-- LLM inference (local and API-based), agentic systems, and RAG
-- NLP and classification under real-time and cost constraints
-- Data ingestion, scraping-driven ETL, and schema-aware merging
-- Backend engineering with FastAPI and Flask
-- AI infrastructure, automation, and system reliability
-
----
-
-## Selected Work
-
-### ShellGuard — Terminal-Native Command Interception
-[`sayan-does/shellmate`](https://github.com/sayan-does/shellmate)
-
-A CLI-first safety layer that intercepts shell commands before they execute.
-
-- `preexec` shell hook feeding a Python daemon over a Unix socket
-- LangChain-based risk classifier and suggestion agent for flagged commands
-- FAISS-backed semantic cache to avoid redundant LLM calls
-- Runs fully local via Ollama — no web server, no external dependency
-
-### LinkedIn Scout — Professional Data Intelligence Platform
-
-End-to-end data intelligence system processing large volumes of LinkedIn content.
-
-- Scraping-driven ETL pipelines with enrichment and deduplication
-- Schema-aware dataset merging for analytics-ready outputs
-- Local LLM inference using Ollama (Gemma 3:1B), eliminating external API costs
-- Streamlit-based monitoring and export dashboard
-
-
-### Real-Time Threat Detection (YOLOv8)
-[`sayan-does/threat-detection`](https://github.com/sayan-does/threat-detection)
-
-- Surveillance-oriented weapon detection system
-- Optimized YOLOv8 models trained on Roboflow datasets
-- Achieved ~4.9 ms/frame inference with ~89% accuracy
-
 ---
 
 ## Technical Stack
@@ -170,6 +41,38 @@ End-to-end data intelligence system processing large volumes of LinkedIn content
 ![RPA](https://img.shields.io/badge/RPA_Automation-111827?style=flat)
 
 ---
+
+## Selected Work
+
+### ShellGuard — Terminal-Native Command Interception
+[`sayan-does/shellmate`](https://github.com/sayan-does/shellmate)
+
+A CLI-first safety layer that intercepts shell commands before they execute.
+
+- `preexec` shell hook feeding a Python daemon over a Unix socket
+- LangChain-based risk classifier and suggestion agent for flagged commands
+- FAISS-backed semantic cache to avoid redundant LLM calls
+- Runs fully local via Ollama — no web server, no external dependency
+
+### LinkedIn Scout — Professional Data Intelligence Platform
+
+End-to-end data intelligence system processing large volumes of LinkedIn content.
+
+- Scraping-driven ETL pipelines with enrichment and deduplication
+- Schema-aware dataset merging for analytics-ready outputs
+- Local LLM inference using Ollama (Gemma 3:1B), eliminating external API costs
+- Streamlit-based monitoring and export dashboard
+
+
+### Real-Time Threat Detection (YOLOv8)
+[`sayan-does/threat-detection`](https://github.com/sayan-does/threat-detection)
+
+- Surveillance-oriented weapon detection system
+- Optimized YOLOv8 models trained on Roboflow datasets
+- Achieved ~4.9 ms/frame inference with ~89% accuracy
+
+---
+
 
 ## Background
 
