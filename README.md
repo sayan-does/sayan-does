@@ -10,8 +10,6 @@ I care about systems that hold up outside the notebook: latency, cost, reliabili
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sayan-does&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-does&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-does&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
@@ -59,13 +57,9 @@ End-to-end data intelligence system processing large volumes of LinkedIn content
 - Local LLM inference using Ollama (Gemma 3:1B), eliminating external API costs
 - Streamlit-based monitoring and export dashboard
 
-### Debate.io — AI Debate Platform (Backend)
-
-- FastAPI backend for automated debate generation and evaluation
-- AI-based scoring using Gemini Flash 2.0
-- MinIO-backed object storage with REST APIs
 
 ### Real-Time Threat Detection (YOLOv8)
+[`sayan-does/threat-detection`](https://github.com/sayan-does/threat-detection)
 
 - Surveillance-oriented weapon detection system
 - Optimized YOLOv8 models trained on Roboflow datasets
